@@ -13,7 +13,5 @@
     "websocket"
   ],
   "scripts": {
-  },
-  "addons": [
-  ]
+  }
 }
